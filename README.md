@@ -1,7 +1,7 @@
 # rayzen-python
 
-Prints `RayZen` 26 times.
+پرینت کردن «ریزن» به تعداد ۲۶ بار.
 
 ```bash
-python main.py
+python3 main.py
 ```
